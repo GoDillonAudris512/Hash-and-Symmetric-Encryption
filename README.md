@@ -1,4 +1,4 @@
-# Hash-and-Symmetric-Encryption
+# Hash and Symmetric Encryption
 
 ## 💿 Program Description 
 This program is written to implement message authentication and integrity checking technique. As we all know, MAC (Message Authentication Code) is often used to check for message authentication and integrity. But there is other technique to do message authentication and integrity checking. One of them is with conventional encryption using hash function and symmetric encryption. Here is how:
